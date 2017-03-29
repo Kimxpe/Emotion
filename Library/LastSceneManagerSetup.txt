@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/The World Outside Our Own.unity
+  isLoaded: 1
+  isActive: 1
